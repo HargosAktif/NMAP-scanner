@@ -1,1 +1,7 @@
-<div align="center"> Made with ❤️ for <b>recon</b> & <b>pentest</b> warriors </div>
+[![Stars](https://img.shields.io/github/stars/user/repo?style=social)](https://github.com/user/repo/stargazers)
+[![License](https://img.shields.io/github/license/user/repo)](LICENSE)
+[![Go](https://img.shields.io/badge/Go-1.21-blue.svg)](https://golang.org)
+[![Report Card](https://goreportcard.com/badge/github.com/user/repo)](https://goreportcard.com/report/github.com/user/repo)
+[![Issues](https://img.shields.io/github/issues/user/repo)](https://github.com/user/repo/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/user/repo)](https://github.com/user/repo/commits/main/)
+[![Release](https://img.shields.io/github/v/release/user/repo)](https://github.com/user/repo/releases)
