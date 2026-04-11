@@ -31,4 +31,7 @@
 - Illegal kullanım sorumluluğumda değildir
 - kod Miraç Akkuş Tarafından yazılmıştır
 
+## ÖNEMLİ!
+- Kod -T4 kullanarak SESLI VE GÜRÜLTÜLÜ tarama yapar loglara kesinlikle çıkar.
+- Sessiz tarama için -T2 Kullanmanızı öneririm
 ---
