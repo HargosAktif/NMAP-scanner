@@ -15,7 +15,7 @@ BANNER = """
  | |   / _ \  | |  |  \| |  | |
  | |__/ ___ \ | |  | |\  |  | |
  |____/_/   \_\|_|  |_| \_|  |_|
-        NmapScanner v1.0 — by LatenT
+        NmapScanner — by LatenT
 \033[0m"""
 
 def check_nmap():
